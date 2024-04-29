@@ -1,13 +1,10 @@
 # Catch-Turtle-ALL
-An assessment aims to design the robot's positioning to follow
-In this project, you are required to develop and implement an interactive simulation in 
-the Turtlesim environment using ROS2. Your main objective is to program a master 
-turtle to "catch" other turtles that appear randomly within the environment. This 
-project aims to test your proficiency with ROS2, focusing on topics, services, and 
-action clients, and your ability to devise efficient algorithms for real-time robotic 
-interaction in the Turtlesim simulation environment.
+I want to design the robot's positioning to follow
+In this project, I am required to develop and implement an interactive simulation in 
+the Turtlesim environment using ROS2. My main objective is to program a master 
+turtle to "catch" other turtles that appear randomly within the environment. 
+Now I have completed the Task A, but I have not manage task B yet.
 
-Task Requirements
 System Requirements: The project must be implemented using ROS2 in 
 conjunction with the Turtlesim simulation.
 
