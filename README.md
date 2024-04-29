@@ -1,5 +1,5 @@
 # Catch-Turtle-ALL
-An assessment from school
+An assessment aims to design the robot's positioning to follow
 In this project, you are required to develop and implement an interactive simulation in 
 the Turtlesim environment using ROS2. Your main objective is to program a master 
 turtle to "catch" other turtles that appear randomly within the environment. This 
@@ -36,6 +36,7 @@ according to the destination.
 Sub-task C: Program the behaviour for the caught turtles to follow the 
 master turtle in a chain formation, maintaining close proximity to the turtle directly in 
 front of them in the chain.
+Turtle generation has been completed so far, but task B has not yet been completed
 
 Evaluation Criteria
 Turtle Catching Efficiency: The master turtle must successfully identify and move towards 
